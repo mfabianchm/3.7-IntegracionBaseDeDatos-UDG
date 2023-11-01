@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "169483439646",
+    "project_id": "integracion-base-de-datos",
+    "storage_bucket": "integracion-base-de-datos.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:169483439646:android:ba275eb6649955dca2680f",
+        "android_client_info": {
+          "package_name": "com.example.integracion_base_de_datos"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD41K3H2qgvHBt6IgdOpgNv7oTDf690Syg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
